@@ -1,0 +1,17 @@
+body {
+    font-family: Arial;
+}
+
+nav a {
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+nav a:hover {
+    background-color: lightgray;
+}
+
+.active {
+    background-color: darkblue;
+    color: white;
+}
